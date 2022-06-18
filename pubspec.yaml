@@ -19,6 +19,7 @@ dependencies:
   flutter_screenutil: ^5.5.3+2
   easy_localization: ^3.0.1
   internet_connection_checker: ^0.0.1+4
+  provider: ^6.0.3
 
 dev_dependencies:
   flutter_test:
