@@ -1,16 +1,9 @@
 # all_about_clubs
 
-A new Flutter project.
+Flutter app to get club information using Provider and dio
 
-## Getting Started
+-support for future multilanguages </br>
+-support for clones by only changing main theme </br>
+-dio can be changed with any other package without affecting ui code </br>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![all about clubs](https://user-images.githubusercontent.com/44480226/174462351-29ddbfe6-adbe-4125-b35f-66e4eaeb10ce.gif)
